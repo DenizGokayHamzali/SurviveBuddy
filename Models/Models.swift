@@ -38,7 +38,7 @@ struct EmergencyStep: Identifiable {
     let mainContent: AnyView
     let buttonText: String
     let points: Int
-    let requiredTime: Int // Seconds required for this step
+    let requiredTime: Int // Seconds required for this step.
 }
 
 struct EmergencyNumber {
