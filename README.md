@@ -1,6 +1,8 @@
 # Emergency Preparedness Training App
 
-![App Icon](https://via.placeholder.com/100x100)
+<div style="text-align: center;">
+  <img src="./Assets.xcassets/AppIcon.appiconset/SurviveBuddyIcon.jpg" width="100px" alt="SurviveBuddy Icon" title="SurviveBuddy"> 
+</div>
 
 ## About the App
 
