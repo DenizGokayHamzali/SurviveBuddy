@@ -12,16 +12,16 @@ The app addresses the urgent need for accessible disaster education in the wake 
 
 ## Features
 
-- **Engaging Game-Based Learning**: Turn disaster preparedness into an accessible, fun experience
+- **Engaging Game-Based Learning**: Turn disaster preparedness into an accessible, fun experience.
 - **Comprehensive Emergency Training**:
-  - Emergency kit packing simulator
-  - Emergency numbers quiz
-  - Safe meeting points identification
-  - Emergency signals learning module
-- **Achievement System**: Earn points and badges to incentivize learning
-- **Timed Challenges**: Practice making quick decisions under pressure
-- **Multi-Disaster Scenarios**: Learn protocols for earthquakes, floods, hurricanes, and tornadoes
-- **Child-Friendly Interface**: Designed specifically for younger users while being informative for all ages
+  - Emergency kit packing simulator.
+  - Emergency numbers quiz.
+  - Safe meeting points identification.
+  - Emergency signals learning module.
+- **Achievement System**: Earn points and badges to incentivize learning.
+- **Timed Challenges**: Practice making quick decisions under pressure.
+- **Multi-Disaster Scenarios**: Learn protocols for earthquakes, floods, hurricanes, and tornadoes.
+- **Child-Friendly Interface**: Designed specifically for younger users while being informative for all ages.
 
 ## Screenshots
 
@@ -31,16 +31,16 @@ The app addresses the urgent need for accessible disaster education in the wake 
 
 ### Frameworks Used
 
-- **SwiftUI**: Creates an intuitive and responsive user interface with smooth animations
-- **AudioToolbox**: Provides important audio feedback for correct/incorrect actions and achievements
-- **Combine**: Powers the timer functionality for timed challenges
+- **SwiftUI**: Creates an intuitive and responsive user interface with smooth animations.
+- **AudioToolbox**: Provides important audio feedback for correct/incorrect actions and achievements.
+- **Combine**: Powers the timer functionality for timed challenges.
 
 ### Architecture
 
 The app follows MVVM architecture with:
 - **Models**: `GameState`, `EmergencyItem`, `MeetingPoint`, etc.
-- **Views**: Modular views for each training module
-- **Game Logic**: Score tracking, badge awards, and educational progression
+- **Views**: Modular views for each training module.
+- **Game Logic**: Score tracking, badge awards, and educational progression.
 
 ## Development Journey
 
@@ -51,24 +51,25 @@ As a Basic AFAD Volunteer for over a year, I've witnessed firsthand the importan
 ## Future Plans
 
 Future updates will include:
-- Additional disaster scenarios
-- Personalized family emergency plans
-- Multilingual support for global accessibility
-- AR components for immersive training
-- Integration with official emergency services information
+- Additional disaster scenarios.
+- Personalized family emergency plans.
+- Multilingual support for global accessibility.
+- AR components for immersive training.
+- Integration with official emergency services information.
 
 ## About the Developer
 
 I'm passionate about leveraging technology to create positive social impact. Beyond this project:
 
-- **AFAD Volunteer**: Contributing to disaster response and community preparedness initiatives
-- **App Developer**: Creator of "Haydi: Smart Task Manager" and "AIBebek" on the App Store
-- **Community Focus**: Dedicated to creating solutions for vulnerable populations, especially children
+- **AFAD Volunteer**: Contributing to disaster response and community preparedness initiatives.
+- **App Developer**: Creator of "Haydi: Smart Task Manager" and "AIBebek" on the App Store.
+- **Community Focus**: Dedicated to creating solutions for vulnerable populations, especially children.
 
 ## Connect
 
-- GitHub: [GitHub Profile]
+- GitHub: [[GitHub Profile](https://github.com/DenizGokayHamzali)]
 - App Store: [Developer Page]
+- denizgokayhamzali@gmail.com
 
 ---
 
