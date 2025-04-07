@@ -67,7 +67,7 @@ I'm passionate about leveraging technology to create positive social impact. Bey
 
 ## Connect
 
-- GitHub: [[GitHub Profile](https://github.com/DenizGokayHamzali)]
+- [GitHub Profile](https://github.com/DenizGokayHamzali)
 - App Store: [Developer Page]
 - denizgokayhamzali@gmail.com
 
